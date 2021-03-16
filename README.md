@@ -1,5 +1,8 @@
 ### Hi there, my name is Jason 👋
 
+### Profile Views :<br>
+![Visitor Count](https://profile-counter.glitch.me/dunnjm814/count.svg)
+
 <!--
 **dunnjm814/dunnjm814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
