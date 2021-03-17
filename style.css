@@ -1,8 +1,9 @@
-.linkedin{
+.linkedin > img {
   height: 25px;
   width: 25px;
 }
-.banner{
+
+.banner > img {
   width: 100%;
   height: auto;
 }

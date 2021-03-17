@@ -1,14 +1,17 @@
 <link href="style.css" rel="stylesheet"></link>
 
+<span class='banner'>
 ![banner](https://github.com/dunnjm814/dunnjm814/blob/main/jason_github_banner.jpg?raw=true)
+</span><br>
 
-### Hi there, my name is Jason 👋
+### Hi there, my name is Jason 👋 <br>
 
 ### Connect with me:
+<span class='linkedin'>
+[![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/jason-dunn-5667a1b7/)
+</span><br>
 
-[![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/jason-dunn-5667a1b7/) <br>
-
-### Profile Views :<br>
+### Profile Views:<br>
 ![Visitor Count](https://profile-counter.glitch.me/dunnjm814/count.svg)
 
 
