@@ -1,12 +1,12 @@
 <link href="style.css" rel="stylesheet"></link>
 
-[![banner](https://github.com/dunnjm814/dunnjm814/blob/main/jason_github_banner.jpg?raw=true){.banner}]
+![banner](https://github.com/dunnjm814/dunnjm814/blob/main/jason_github_banner.jpg?raw=true)
 
 ### Hi there, my name is Jason 👋
 
 ### Connect with me:
 
-[[![icon](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/jason-dunn-5667a1b7/){.linkedin}]<br>
+[![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/jason-dunn-5667a1b7/) <br>
 
 ### Profile Views :<br>
 ![Visitor Count](https://profile-counter.glitch.me/dunnjm814/count.svg)
