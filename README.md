@@ -8,7 +8,7 @@
 
 ### Connect with me:
 <div class='linkedin'>
-<a href='https://www.linkedin.com/in/jason-dunn-5667a1b7/'>
+<a href='https://www.linkedin.com/in/jason-dunn-software-engineer/'>
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' width='25' height='25'>
 </a>
 </div><br>
